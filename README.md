@@ -1,6 +1,6 @@
 <div align="center">
 
-# Привет! Я STRG2026 👋
+# Привет! Я STRG2026 
 
 ### Python • ML / AI • Backend
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 Чем занимаюсь
+##  Чем занимаюсь
 
 - **ML / LLM:** RAG, embeddings, semantic search, локальные LLM;
 - **Backend:** FastAPI, REST API, асинхронный Python, JWT/RBAC;
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" />
 </p>
 
-## 🚀 Избранные проекты
+##  Избранные проекты
 
 ### [ML Interview Coach](https://github.com/STRG2026/ml_interview_coach)
 
@@ -54,7 +54,7 @@
 - хранение контекста интервью по `session_id`;
 - FastAPI API и консольный клиент.
 
-➡️ [Открыть проект](https://github.com/STRG2026/ml_interview_coach)
+ [Открыть проект](https://github.com/STRG2026/ml_interview_coach)
 
 ---
 
@@ -80,9 +80,9 @@ Backend-сервис для управления переговорными ко
 - запуск всего окружения через Docker Compose;
 - OpenAPI и Swagger UI.
 
-➡️ [Открыть проект](https://github.com/STRG2026/avito)
+ [Открыть проект](https://github.com/STRG2026/avito)
 
-## 🧩 Как я подхожу к разработке
+##  Как я подхожу к разработке
 
 Мне важно, чтобы проект был не просто работающим кодом, а понятной инженерной системой:
 
