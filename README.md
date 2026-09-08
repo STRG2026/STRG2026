@@ -1,16 +1,55 @@
-## Hi there 👋
+# David
 
-<!--
-**STRG2026/STRG2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ML / AI Engineer
 
-Here are some ideas to get you started:
+I build ML systems, LLM applications and backend services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+- Large Language Models & RAG
+- Computer Vision
+- Classic Machine Learning
+- FastAPI backend services
+- Applied AI systems
+
+## Tech
+
+**Languages**
+Python • SQL
+
+**ML / AI**
+PyTorch • scikit-learn • OpenCV • LangChain • RAG • Ollama
+
+**Backend**
+FastAPI • REST API • Pydantic
+
+**Data**
+PostgreSQL • Chroma
+
+**Dev**
+Git • Docker • Linux
+
+## Featured projects
+
+### 🧠 ML Interview Coach
+AI-powered interview training system for Machine Learning engineers.
+
+`Python` `FastAPI` `LangChain` `RAG` `Chroma` `LLM`
+
+→ Repository
+
+---
+
+### 🤖 Robotics / Simulation
+Robotics and actuator simulation experiments using ROS and Gazebo.
+
+`ROS` `Gazebo` `Python/C++`
+
+---
+
+## What I'm interested in
+
+- LLM systems
+- RAG architectures
+- Computer Vision
+- ML infrastructure
+- Robotics
